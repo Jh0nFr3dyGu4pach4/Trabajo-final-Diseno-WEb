@@ -1,4 +1,4 @@
-# PixelCrafters - Agencia Digital Creativa
+# GuapaCrafters - Agencia Digital Creativa
 
 Proyecto final de Diseño Web - 100% funcional y responsive
 
